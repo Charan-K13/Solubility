@@ -1,1 +1,1 @@
-# Surfactant_Adsorption_NN
+# Solubility_prediction
